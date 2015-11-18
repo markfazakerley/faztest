@@ -1,2 +1,2 @@
 # faztest 
-this is master
+this is test
